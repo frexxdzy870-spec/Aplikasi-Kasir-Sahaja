@@ -6,7 +6,7 @@ import urllib.parse
 import requests
 
 # --- MASUKKAN URL /exec YANG BARU SETELAH RE-DEPLOY ---
-URL_API = "https://script.google.com/macros/s/AKfycbxouRTgn9MBSZjdYS04fbIYApLwX5p3uJ49BaoMVEI3nwDleKAGwrQPSDzr_o-JOhZXag/exec"
+URL_API = "https://script.google.com/macros/s/AKfycbzFIZYgb2tdTHE_5KH_K0P_UcMgOTlIRSHE1TVsWguwJnqfFCXpMN0pvk55DC1WL5A/exec"
 NAMA_FILE_LOGO = "logo_kedai.png"
 
 st.set_page_config(page_title="POS Sahaja v3.5.1", layout="wide")
