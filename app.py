@@ -8,7 +8,7 @@ import requests
 
 # --- KONFIGURASI UTAMA ---
 # GANTI URL DI BAWAH INI DENGAN URL DARI GOOGLE APPS SCRIPT KAMU
-URL_ABSENSI = "https://script.google.com/macros/s/AKfycbwfcXsT-rzXiQj1B_tjSSfvGrvgfTfdWWIf0g8BLzovs5kZoEe1aRGAOfdJb5y4-Jr7qA/exec" 
+URL_ABSENSI = "https://script.google.com/macros/s/AKfycbwo9x5DLYIt83msjqG3BboOLO33LQA_xmvTcr8CtQdRlyzSgzFp8xWVpI02gadmKr0J_w/exec" 
 NAMA_FILE_LOGO = "logo_kedai.png"
 
 st.set_page_config(page_title="POS Sahaja v3.4", layout="wide")
