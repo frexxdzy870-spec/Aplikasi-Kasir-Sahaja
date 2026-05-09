@@ -7,7 +7,7 @@ from supabase import create_client, Client
 # --- KONFIGURASI SUPABASE ---
 # Isi dengan data dari Project Settings > API Supabase kamu
 SUPABASE_URL = "ISI_URL_SUPABASE_KAMU"
-SUPABASE_KEY = "ISI_ANON_KEY_SUPABASE_KAMU"
+SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9icmJuZW5mb2pxZGVwcXp4YWluIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY2NDU2MDAsImV4cCI6MjA5MjIyMTYwMH0.Ef0uELb-CwYxlKpK_DggIrfX0NZDHiyEHTIcZmseyzk"
 supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 NAMA_FILE_LOGO = "logo_kedai.png"
